@@ -12,7 +12,7 @@ A clean and professional website template designed for legal consulting services
 - Licensed under the MIT License
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/yourusername/legalease-template.git`
+1. Clone the repository: `git clone https://github.com/getode/legaleasy.git`
 2. Open `index.html` in your browser to view the template.
 3. Customize the HTML, CSS, and images to fit your needs.
 
