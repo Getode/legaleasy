@@ -27,6 +27,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## Authors
 - Spytnik, Getode ([movecod.com](https://movecod.com))
-
-## Contact
-For questions or feedback, reach out via [email@example.com](mailto:email@example.com).
